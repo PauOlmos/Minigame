@@ -6,7 +6,7 @@ A short minigame about a van driving to deliver packages.
 
 ## Key Features
 - The van moves sideways
-- Try and avoid obstacles
+- Try to avoid obstacles
 - Get as far as you can
  
 ## Controls
